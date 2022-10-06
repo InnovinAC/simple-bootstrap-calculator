@@ -1,0 +1,33 @@
+.custom-btn {
+   width : 50px;
+   height : 50px;
+   border-radius: 50%;
+}
+
+
+
+.card {
+   background-color: #06283D;
+   height:fit-content !important;
+}
+
+.centered {
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   /* bring your own prefixes */
+   transform: translate(-50%, -50%);
+ }
+
+ .bg-blue {
+   background-color : #47B5FF;
+   color: #fff;
+   border-color: #DFF6FF;
+ }
+
+ .custom-btn:hover {
+   transform: scale(0.8);
+
+ }
+ 
+
